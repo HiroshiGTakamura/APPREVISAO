@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APPREVISAO</string>
+    <string name="titleText">Digite dois números:</string>
+    <string name="buttonText">TESTAR</string>
+</resources>
